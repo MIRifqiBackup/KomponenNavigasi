@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Komponen-Navigasi</string>
+    <string name="halo_user">Halo Pius Anggoro</string>
+    <string name="lihat_transaksi">Lihat Transaksi</string>
+    <string name="kirim_uang">Kirim Uang</string>
+    <string name="cek_saldo">Cek Saldo</string>
+    <string name="settings">Pengaturan</string>
+    <string name="home">Beranda</string>
+    <string name="balance">USD 1</string>
+</resources>
